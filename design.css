@@ -1,0 +1,47 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    text-weight: bold;
+    font-size: 45px;
+    color: blueviolet;
+    font-family: "Luminari";
+}
+
+h3 {
+    text-align: center;
+    color: darkcyan;
+    font-size: 40px;
+    font-family: "Luminari";
+}
+
+#name {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    height: 30px;
+    font-family: "Luminari";
+    font-size: 20px;
+    color: black;
+}
+
+#month{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    height: 40px;
+    font-size: 20px;
+    color: black;
+}
+
+#day{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    height: 40px;
+    font-size: 20px;
+    color: black;
+}
