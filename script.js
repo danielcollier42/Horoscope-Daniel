@@ -29,8 +29,8 @@ var signs = [
 ];
 var messages = [
     "Unlike the wicked witch of the west, you will not melt in contact with water. In fact, you might enjoy it! Just don't try deep sea diving - or if you do, don't get caught by the giant octopdes.", //0
-    "Hmm, something smells fishy, are you sure you got your birth date right? Well, if you did, en", //1
-    "Have fun conquering nations! Just don't go Napoleon Bonaparte and blow-n-apart(e) the whole world please.", //2
+    "Hmm, something smells fishy, you might have a sudden urge to jump in the sea sometime soon... just remember not to dive too deep too quickly.", //1
+    "Have fun conquering nations! Just don't go Napoleon Bonaparte and blow(n) apart(e) the whole world please.", //2
     "You may get the urge to get a nose ring in the near future... please don't.", //3
     "Start looking out for your long lost twin! The stars say you might find them sometime soon!", //4
     "Look, it's not as bad as it sounds... You may be a bit grumpy in the coming weeks but don't just hide from the world in your shell! ", //5
